@@ -22,7 +22,7 @@ of the commands available and how to use them.
 
 Lastly, the [FAQ](#faq) section will provide you with answers to questions that you might have while using Simplst.
 Otherwise, the [contents page](#contents-page) below displays all the features that Simplst has to offer. You can click 
-on any section which you would like to refer to, and you will be brought to that section directly.
+on any section and you will be brought to that section directly.
 
 ## Contents page
 * [Explanation of Key Terms or Symbols](#explanation-of-key-terms-or-symbols)
